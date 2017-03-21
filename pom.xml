@@ -22,7 +22,7 @@
         <module>app</module>
         <profiles>
         <profile>
-            <id>release</id>
+            <id>releases</id>
             <build>
                 <plugins>
                     <plugin>
