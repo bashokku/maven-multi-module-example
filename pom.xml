@@ -10,11 +10,11 @@
             <name>nexus release</name>
             <url>http://52.34.229.118:8081/nexus/content/repositories/releases/</url>
             </repository>
-          <snapshotrepository>
+          <snapshotRepository>
             <id>nexus</id>
             <name>nexus snapshot</name>
             <url>http://52.34.229.118:8081/nexus/content/repositories/snapshots/</url>
-            </snapshotrepository>
+            </snapshotRepository>
         </distributionManagement>
             <name>multi</name>
     <modules>
