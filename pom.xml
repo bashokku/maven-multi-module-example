@@ -7,12 +7,12 @@
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <name>Nexus Release</name>
+            <name>nexus release</name>
             <url>http://52.34.229.118:8081/nexus/content/repositories/releases</url>
             </repository>
           <snapshotrepository>
             <id>nexus</id>
-            <name>Nexus Snapshot</name>
+            <name>nexus snapshot</name>
 <url>http://52.34.229.118:8081/nexus/content/repositories/snapshots/</url>
             </snapshotrepository>
         </distributionManagement>
